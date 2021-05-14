@@ -1,0 +1,15 @@
+//
+// Created by chencl on 21-5-11.
+//
+
+#ifndef WLPLAYER_WLSTATAUS_H
+#define WLPLAYER_WLSTATAUS_H
+
+#endif //WLPLAYER_WLSTATAUS_H
+
+#define WL_THREAD_MAIN 1
+#define WL_THREAD_CHILD 2
+
+#define WL_FFMPEG_CAN_NOT_OPEN_URL 3
+#define WL_FFMPEG_CAN_NOT_FIND_STREAMS 4
+#define WL_FFMPEG_CAN_NOT_OPEN_URL 5
